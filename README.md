@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pragati1698
+- 👋 Hi, I’m Pragati Kumar @pragati1698
 - 👀 I’m interested in software development!
 - 🌱 I’m currently pursuing masters in Computer Science
 - 💞️ I’m looking to collaborate on java and python.
